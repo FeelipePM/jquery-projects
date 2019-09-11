@@ -1,0 +1,24 @@
+.menu {
+  height: 40px;
+  background-color: #000;
+  color: #fff;
+}
+
+li {
+  float: left;
+  padding: 0 20px;
+  line-height: 40px;
+  cursor: pointer;
+}
+
+.menu-1 {
+  height: 40px;
+}
+
+.menu-2 {
+  display: none;
+  position: absolute;
+  width: 150px;
+  height: 120px;
+  background-color: #000;
+}
